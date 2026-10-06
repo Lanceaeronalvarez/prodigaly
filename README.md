@@ -1,0 +1,2 @@
+# prodigaly
+Flutter Money Tracker
